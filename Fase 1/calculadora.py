@@ -15,4 +15,4 @@ while True:
         else:
             print("Nao pode dividir por 0")
     else:
-        print("Operacao invalida! Use +, -, * ou /")
+        print("Hello World")
